@@ -1,0 +1,4 @@
+D:\Google\CQNU-Ticket-Booking-System-main\CQNU-Ticket-Booking-System-main\x64\Debug\CQNU-Ticket-Booking-System.exe
+D:\Google\CQNU-Ticket-Booking-System-main\CQNU-Ticket-Booking-System-main\x64\Debug\CQNU-Ticket-Booking-System.pdb
+F:\CQNU-Ticket-Booking-System-main\CQNU-Ticket-Booking-System-main\x64\Debug\CQNU-Ticket-Booking-System.exe
+F:\CQNU-Ticket-Booking-System-main\CQNU-Ticket-Booking-System-main\x64\Debug\CQNU-Ticket-Booking-System.pdb
